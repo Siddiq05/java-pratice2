@@ -84,5 +84,3 @@ console.log(a < 8 || b > 1);
 
 console.log(!(a==b));
 
-
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
